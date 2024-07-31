@@ -1,0 +1,4 @@
+,process_id,media_id,row_type,measurement_id,time,value,stdv,source,unit
+0,,feed2,media,L-Alanine,,8.9,,/home/jovyan/workspace/notebook-examples-lfs/tests/workshop/generated_test_data/results/media_composition_data.csv.gz,g/L
+1,,feed2,media,L-Glutamate,,14.6,,/home/jovyan/workspace/notebook-examples-lfs/tests/workshop/generated_test_data/results/media_composition_data.csv.gz,g/L
+2,,feed1,media,beta-D-Glucose,,90,,/home/jovyan/workspace/notebook-examples-lfs/tests/workshop/generated_test_data/results/media_composition_data.csv.gz,g/L
